@@ -1,4 +1,4 @@
-module belajar-gorm-gin
+module belajar-railways
 
 go 1.24.1
 

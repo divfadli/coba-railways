@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"belajar-gorm-gin/models"
+	"belajar-railways/models"
 	"fmt"
 	"net/http"
 

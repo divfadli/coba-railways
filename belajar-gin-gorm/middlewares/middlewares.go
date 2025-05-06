@@ -3,7 +3,7 @@ package middlewares
 import (
 	"net/http"
 
-	"belajar-gorm-gin/utils/token"
+	"belajar-railways/utils/token"
 
 	"github.com/gin-gonic/gin"
 )

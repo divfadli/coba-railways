@@ -1,10 +1,10 @@
 package main
 
 import (
-	"belajar-gorm-gin/config"
-	"belajar-gorm-gin/docs"
-	"belajar-gorm-gin/routes"
-	"belajar-gorm-gin/utils"
+	"belajar-railways/config"
+	"belajar-railways/docs"
+	"belajar-railways/routes"
+	"belajar-railways/utils"
 	"log"
 
 	"github.com/joho/godotenv"

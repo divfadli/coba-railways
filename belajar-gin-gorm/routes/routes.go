@@ -4,8 +4,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 
-	"belajar-gorm-gin/controllers"
-	"belajar-gorm-gin/middlewares"
+	"belajar-railways/controllers"
+	"belajar-railways/middlewares"
 
 	swaggerFiles "github.com/swaggo/files"     // swagger embed files
 	ginSwagger "github.com/swaggo/gin-swagger" // gin-swagger middleware

@@ -1,7 +1,7 @@
 package token
 
 import (
-	"belajar-gorm-gin/utils"
+	"belajar-railways/utils"
 	"fmt"
 	"strconv"
 	"strings"

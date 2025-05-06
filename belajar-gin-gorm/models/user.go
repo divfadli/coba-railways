@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"belajar-gorm-gin/utils/token"
+	"belajar-railways/utils/token"
 
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"

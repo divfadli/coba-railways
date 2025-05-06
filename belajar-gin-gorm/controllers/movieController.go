@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"belajar-gorm-gin/models"
+	"belajar-railways/models"
 
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
