@@ -1,8 +1,8 @@
 package config
 
 import (
-	"api-gin/models"
-	"api-gin/utils"
+	"belajar-railways/models"
+	"belajar-railways/utils"
 	"fmt"
 
 	"gorm.io/driver/mysql"
